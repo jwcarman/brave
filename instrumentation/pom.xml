@@ -17,6 +17,7 @@
   </properties>
 
   <modules>
+    <module>axon</module>
     <module>benchmarks</module>
     <module>http</module>
     <module>http-tests</module>
